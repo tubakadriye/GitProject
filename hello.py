@@ -1,6 +1,6 @@
 print("hello")
 print("Hi everyone this is first commit from Tuba branch ")
-
+print("conflicting from tuba")
 
 #problem
 
